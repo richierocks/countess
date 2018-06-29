@@ -1,0 +1,15 @@
+Package: countess
+Type: Package
+Title: Helpers for "dplyr"'s "count" Function
+Version: 0.0-1
+Author: Richard Cotton [aut, cre]
+Maintainer: Richard Cotton <richierocks@gmail.com>
+Description: A few convenience functions that combine dplyr's count() with
+    group_by_all(), group_by_at(), and group_by_if().
+Imports:
+    dplyr,
+    rlang
+License: Unlimited
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
