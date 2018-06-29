@@ -12,10 +12,11 @@ Convenience functions built on top of dplyr to count the number of instances of 
 Installation
 ------------
 
-You can install the released version of countess from [CRAN](https://CRAN.R-project.org) with:
+You can install this development version of countess using
 
 ``` r
-install.packages("countess")
+# install.packages("remotes")
+remotes::install_github("richierocks/countess")
 ```
 
 Example
