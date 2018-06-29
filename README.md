@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-countess: Helpers for "dplyr"'s "count" Function
-================================================
+`countess`: Helpers for `dplyr`'s `count()` Function
+====================================================
 
 Convenience functions built on top of dplyr to count the number of instances of each value in columns of data frames.
 
